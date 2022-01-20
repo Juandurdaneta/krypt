@@ -26,7 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](/client/images/logo.png)
+![Product Name Screen Shot](/client/images/logo.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc consequat interdum varius sit amet mattis. Hendrerit gravida rutrum quisque non tellus orci ac auctor augue. Enim ut tellus elementum sagittis vitae. Ut sem viverra aliquet eget. Fusce id velit ut tortor pretium. Eget lorem dolor sed viverra. Non curabitur gravida arcu ac. Dolor purus non enim praesent elementum facilisis. Vitae sapien pellentesque habitant morbi. Aliquet enim tortor at auctor. Aenean sed adipiscing diam donec adipiscing. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Tempor id eu nisl nunc mi ipsum faucibus. Ultrices sagittis orci a scelerisque purus. Ut etiam sit amet nisl purus in mollis nunc sed.
 
