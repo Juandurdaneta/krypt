@@ -12,7 +12,7 @@
   <p align="center">
     A Web 3.0 Blockchain App
     <br />
-    <a href="https://github.com/Juandurdaneta/krypt"><strong>View Live demo</strong></a>
+    <a href="https://eager-spence-1b880f.netlify.app/"><strong>View Live demo</strong></a>
     <br />
     <br />
   </p>
